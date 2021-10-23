@@ -21,6 +21,7 @@ export class Counter extends Component{
                 <div>
                     <h1>
                         {this.state.contador}
+                        
                     </h1>
                 </div>                
                 <div>
